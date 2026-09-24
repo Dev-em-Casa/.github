@@ -1,3 +1,5 @@
 # 🚀 Dev em Casa
 
-Bem-vindo ao repositório oficial da **Dev em Casa**! Desenvolvemos soluções de software focadas em praticidade, automação e eficiência para negócios e estabelecimentos.
+> *Pequenas soluções. Grandes ideias. E bastante café.*
+
+Bem-vindo ao GitHub oficial da **Dev em Casa**! Desenvolvemos soluções de software focadas em praticidade, automação e eficiência para o seu negócio.
