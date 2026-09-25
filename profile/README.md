@@ -17,6 +17,6 @@ Precisa de suporte ou quer conhecer nossas soluções?
 
 🌐 Site Oficial: https://devemcasa.com.br
 
-📧 E-mail: lima@devemcasa.com.br
+📧 E-mail: contato@devemcasa.com.br
 
 Desenvolvido com carinho pela Dev em Casa ☕
