@@ -15,7 +15,7 @@ Instaladores e Atualizações: Acesse a aba Releases para baixar a versão mais 
 📬 Contato & Suporte
 Precisa de suporte ou quer conhecer nossas soluções?
 
-🌐 Site Oficial: devemcasa.com.br
+🌐 Site Oficial: https://devemcasa.com.br
 
 📧 E-mail: lima@devemcasa.com.br
 
